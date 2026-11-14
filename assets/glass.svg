@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 236" width="560" height="236" role="img" aria-label="LIQUID GLASS: Samsung UI experiments">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D20"/><stop offset="1" stop-color="#17204C"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#3DE7FF" stop-opacity=".33"/><stop offset="1" stop-color="#3DE7FF" stop-opacity="0"/></radialGradient>
+<linearGradient id="orb" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#3DE7FF" stop-opacity=".75"/><stop offset="1" stop-color="#AC8AFF" stop-opacity=".26"/></linearGradient>
+<linearGradient id="edge" x1="0" x2="1"><stop stop-color="#3DE7FF" stop-opacity=".65"/><stop offset="1" stop-color="#AC8AFF" stop-opacity=".40"/></linearGradient></defs>
+<rect width="560" height="236" rx="24" fill="url(#bg)"/><circle cx="452" cy="92" r="177" fill="url(#glow)"/>
+<rect x="14" y="14" width="532" height="208" rx="22" fill="#FFFFFF" fill-opacity=".055" stroke="url(#edge)" stroke-width="1.7"/>
+<path d="M0 192Q135 148 270 187T560 183" fill="none" stroke="#3DE7FF" stroke-opacity=".17" stroke-width="24"/>
+<path d="M0 206Q135 166 270 200T560 202" fill="none" stroke="#AC8AFF" stroke-opacity=".24" stroke-width="2"/>
+<text x="37" y="53" fill="#3DE7FF" font-family="Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="2">01 / ANDROID DESIGN LAB</text>
+<text x="35" y="111" fill="#FAFCFF" font-family="Arial, sans-serif" font-size="37" font-weight="900" letter-spacing="-1.8">LIQUID GLASS</text>
+<text x="37" y="146" fill="#C7D3F4" font-family="Arial, sans-serif" font-size="17" font-weight="400">Samsung UI experiments</text>
+<rect x="35" y="168" width="205" height="31" rx="15" fill="#3DE7FF" fill-opacity=".13" stroke="#3DE7FF" stroke-opacity=".40"/>
+<text x="48" y="189" fill="#EFFAFF" font-family="Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="1">INTERFACE EXPERIMENTS</text>
+<circle cx="454" cy="126" r="66" fill="url(#orb)" stroke="#3DE7FF" stroke-opacity=".65" stroke-width="2"/>
+<circle cx="454" cy="126" r="49" fill="#0C1531" fill-opacity=".61" stroke="#FFFFFF" stroke-opacity=".42"/>
+<path d="M413 107C437 78 473 79 493 107" fill="none" stroke="#FFFFFF" stroke-opacity=".67" stroke-width="4" stroke-linecap="round"/>
+<text x="454" y="138" fill="#FFFFFF" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="900">LG</text></svg>
