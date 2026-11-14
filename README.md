@@ -8,7 +8,9 @@
 
 <a href="https://github.com/QuestAstro?tab=followers"><img src="https://img.shields.io/github/followers/QuestAstro?label=FOLLOWERS&style=for-the-badge&labelColor=0B1020&color=05C5F8" alt="GitHub followers" /></a>
 <a href="https://github.com/QuestAstro?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Explore projects" /></a>
-<img src="https://komarev.com/ghpvc/?username=QuestAstro&style=for-the-badge&color=05C5F8&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS%20(DEMO)-19%2C270-05C5F8?style=for-the-badge&labelColor=0B1020" alt="19,270 profile views — decorative demo counter, not real analytics" />
+
+<sub>✨ Showcase counter (19,270) for visual design only — not a live visitor count.</sub>
 
 </div>
 
